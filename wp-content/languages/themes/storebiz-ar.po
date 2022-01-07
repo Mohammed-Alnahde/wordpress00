@@ -1,0 +1,489 @@
+# Translation of Themes - StoreBiz in Arabic
+# This file is distributed under the same license as the Themes - StoreBiz package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-01 17:28:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - StoreBiz\n"
+
+#. Description of the theme
+msgid "StoreBiz is a modern and flexible WooCommerce WordPress theme. If you want to create a dazzling fashion, jewelry, kids store, auto parts furniture, electronic, accessories store, beauty or cosmetics shop website, look no further; StoreBiz is here! StoreBiz provides powerful features. Checkout Pro Version https://burgerthemes.com/demo/pro/storebiz/"
+msgstr ""
+"StoreBiz هو قالب ووردبريس ووكومرس حديث ومرن. إذا كنت ترغب في إنشاء متجر أزياء ، أو مجوهرات ، أو متجر أطفال ، أو أثاث لقطع غيار السيارات ، أو متجر إلكتروني ، أو إكسسوارات ، أو موقع إلكتروني لمتجر مستحضرات التجميل، فلا تبحث أكثر ؛ StoreBiz هنا! يوفر StoreBiz ميزات قوية. تحقق من النسخة Pro\n"
+"https://burgerthemes.com/demo/pro/storebiz/"
+
+#. Theme Name of the theme
+msgid "StoreBiz"
+msgstr "StoreBiz"
+
+#: inc/extras.php:363
+msgid "Get started with StoreBiz"
+msgstr "ابدأ مع StoreBiz"
+
+#: inc/extras.php:361
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "تنصيب وتفعيل إضافة <strong>Burger Companion</strong> للاستفادة الكاملة من جميع المميزات التي يمكن أن يقدمها هذا القالب."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/extras.php:357
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "أهلا بك! شكرًا لاختيارك%1$s!"
+
+#: inc/extras.php:350
+msgid "Theme Screenshot"
+msgstr " لقطة شاشة القالب"
+
+#: inc/customizer/customizer-pro/class-customize.php:76
+msgid "Get More Features in StoreBiz Pro"
+msgstr "احصل على المزيد من المميزات في StoreBiz Pro"
+
+#: woocommerce/content-product.php:60
+msgid "out of 5"
+msgstr "من 5"
+
+#: woocommerce/content-product.php:60
+msgid "Rated %s out of 5"
+msgstr "تم تقييم %s من 5"
+
+#: woocommerce/content-product.php:53
+msgid "Sale"
+msgstr "تخفيضات"
+
+#: woocommerce/cart/mini-cart.php:86 woocommerce/cart/mini-cart.php:179
+msgid "No products in the cart."
+msgstr "لا توجد منتجات في السلة."
+
+#: woocommerce/cart/mini-cart.php:78 woocommerce/cart/mini-cart.php:173
+msgid "Checkout"
+msgstr "عملية إنهاء الطلب"
+
+#: woocommerce/cart/mini-cart.php:70 woocommerce/cart/mini-cart.php:165
+msgid "Sub Total:"
+msgstr "الإجمالي الفرعي:"
+
+#: woocommerce/cart/mini-cart.php:32 woocommerce/cart/mini-cart.php:128
+msgid "Remove this item"
+msgstr "إزالة هذا العنصر"
+
+#. Template Name of the theme
+msgid "Page Full Width"
+msgstr "العرض الكامل للصفحة"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "الصفجة الرئيسية"
+
+#: template-parts/sections/section-header.php:205
+msgid "Header Above Collapse"
+msgstr "طي الترويسة في الاعلى"
+
+#: template-parts/sections/section-header.php:199
+msgid "Header Close Menu"
+msgstr "ترويسة إغلاق القائمة"
+
+#: template-parts/sections/section-header.php:190
+msgid "Menu Collapsed"
+msgstr "تم طي القائمة"
+
+#: template-parts/sections/section-header.php:61
+msgid "Find Your products..."
+msgstr "ابحث عن منتجاتك ..."
+
+#: template-parts/sections/section-header.php:48
+msgid "Select Category"
+msgstr "اختر التصنيف"
+
+#: template-parts/content/content.php:38
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:33
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "متابعة قراءة %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content/content-page.php:42
+#: template-parts/content/content-search.php:42
+msgid "Read More"
+msgstr "قراءة المزيد"
+
+#: template-parts/content/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أننا لم نعثر على ما تطلب. لعل استعمال البحث قد يساعد."
+
+#: template-parts/content/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عذرا، لا يوجد شيء يتطابق مع كلمات البحث التي استعملتها، المرجو المحاولة من جديد باستعمال كلمات مفتاحية أخرى."
+
+#: template-parts/content/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "هل أنت على استعداد لنشر مقالتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#: searchform.php:13
+msgid "Search …"
+msgstr "بحث ..."
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr "البحث عن:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "تحرير %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "اترك تعليقا<span class=\"screen-reader-text\"> على %s</span>"
+
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "ذو علامة %1$s"
+
+#: inc/template-tags.php:50
+msgid "Posted in %1$s"
+msgstr " نُشرت بتاريخ %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr "، "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "بواسطة %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "نُشرت في %s"
+
+#: inc/extras.php:311
+msgid "Page"
+msgstr "صفحة"
+
+#: inc/extras.php:306
+msgid "Error 404 "
+msgstr "خطأ 404"
+
+#: inc/extras.php:302
+msgid "Articles posted by "
+msgstr "المقالات التي نشرت من قبل"
+
+#: inc/extras.php:296
+msgid "Posts tagged "
+msgstr "مقالات ذات وسوم"
+
+#: inc/extras.php:197
+msgid "Search results for "
+msgstr "نتائج البحث عن"
+
+#: inc/extras.php:191
+msgid "Archive by category"
+msgstr "الأرشفة حسب التصنيف"
+
+#: inc/extras.php:171
+msgid "Home"
+msgstr "الرئيسية"
+
+#: inc/extras.php:169 inc/extras.php:172
+msgid "1"
+msgstr "1"
+
+#: inc/extras.php:137
+msgid "Author: %s"
+msgstr "الكاتب: %s"
+
+#: inc/extras.php:133
+msgid "Error 404"
+msgstr "خطأ 404"
+
+#: inc/extras.php:129
+msgid "Tag Archives: %s"
+msgstr "أرشيفات الوسوم: %s"
+
+#: inc/extras.php:125
+msgid "Category Archives: %s"
+msgstr "أرشيفات التصنيف: %s"
+
+#: inc/extras.php:121
+msgid "Yearly Archives: %s"
+msgstr "الأرشيفات السنوية: %s "
+
+#: inc/extras.php:117
+msgid "Monthly Archives: %s"
+msgstr "الأرشيفات الشهرية: %s "
+
+#: inc/extras.php:113
+msgid "Daily Archives: %s"
+msgstr "الأرشيفات اليومية: %s"
+
+#: inc/extras.php:74 inc/extras.php:88
+#: template-parts/sections/section-header.php:96
+#: template-parts/sections/section-header.php:115
+msgid "0"
+msgstr "0"
+
+#: inc/customizer/customizer-options/storebiz_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "تعطيل"
+
+#: inc/customizer/customizer-options/storebiz_recommended_plugin.php:17
+msgid "Activate"
+msgstr "التفعيل"
+
+#: inc/customizer/customizer-options/storebiz_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "تنصيب وتفعيل"
+
+#: inc/customizer/customizer-options/storebiz_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "الإضافة الموصى بها"
+
+#: inc/customizer/customizer-options/storebiz_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "الإجراءات الموصى بها"
+
+#: inc/customizer/customizer-options/storebiz_recommended_plugin.php:10
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer StoreBiz."
+msgstr "تنصيب وتفعيل إضافة <strong>Burger Companion</strong> للاستفادة الكاملة من جميع المميزات التي يمكن أن يقدمها هذا القالب StoreBiz."
+
+#: inc/customizer/customizer-options/storebiz-header.php:165
+#: inc/customizer/customizer-options/storebiz-header.php:184
+msgid "Sticky Header"
+msgstr "ترويسة مثبتة"
+
+#: inc/customizer/customizer-options/storebiz-header.php:132
+msgid "Account"
+msgstr "الحساب"
+
+#: inc/customizer/customizer-options/storebiz-header.php:92 searchform.php:15
+msgid "Search"
+msgstr "بحث"
+
+#: inc/customizer/customizer-options/storebiz-header.php:53
+#: woocommerce/cart/mini-cart.php:77 woocommerce/cart/mini-cart.php:172
+msgid "Cart"
+msgstr "السلة "
+
+#: inc/customizer/customizer-options/storebiz-header.php:35
+msgid "Header Navigation"
+msgstr "ترويسة التنقل"
+
+#: inc/customizer/customizer-options/storebiz-header.php:23
+msgid "Site Identity"
+msgstr "هوية الموقع"
+
+#: inc/customizer/customizer-options/storebiz-general.php:186
+msgid "Opacity"
+msgstr "معدل الشفافية"
+
+#: inc/customizer/customizer-options/storebiz-general.php:97
+msgid "Min Height"
+msgstr "أدنى ارتفاع"
+
+#: inc/customizer/customizer-options/storebiz-general.php:56
+msgid "Hide / Show Section"
+msgstr "إخفاء / عرض القسم"
+
+#: inc/customizer/customizer-options/storebiz-general.php:16
+msgid "Breadcrumb Section"
+msgstr "قسم مسار التنقل"
+
+#: inc/customizer/customizer-options/storebiz-general.php:7
+msgid "General"
+msgstr "عام"
+
+#: inc/customizer/customizer-options/storebiz-footer.php:130
+msgid "Copytight"
+msgstr "حقوق النشر"
+
+#: inc/customizer/customizer-options/storebiz-footer.php:116
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "حقوق النشر [current_year] [site_title] | مشغل بواسطة [theme_author]"
+
+#: inc/customizer/customizer-options/storebiz-footer.php:110
+msgid "Copyright"
+msgstr "حقوق النشر"
+
+#: inc/customizer/customizer-options/storebiz-footer.php:91
+msgid "Footer Bottom"
+msgstr "الجزء الأسفل من التذييل"
+
+#: inc/customizer/customizer-options/storebiz-footer.php:82
+#: inc/customizer/customizer-options/storebiz-general.php:167
+msgid "Fixed"
+msgstr "ثابت"
+
+#: inc/customizer/customizer-options/storebiz-footer.php:81
+#: inc/customizer/customizer-options/storebiz-general.php:166
+msgid "Scroll"
+msgstr "التمرير"
+
+#: inc/customizer/customizer-options/storebiz-footer.php:80
+#: inc/customizer/customizer-options/storebiz-general.php:165
+msgid "Inherit"
+msgstr "توريث"
+
+#: inc/customizer/customizer-options/storebiz-footer.php:75
+#: inc/customizer/customizer-options/storebiz-general.php:160
+msgid "Background Attachment"
+msgstr "مرفق الخلفية"
+
+#: inc/customizer/customizer-options/storebiz-footer.php:56
+#: inc/customizer/customizer-options/storebiz-general.php:141
+msgid "Background Image"
+msgstr "الصورة الخلفية"
+
+#: inc/customizer/customizer-options/storebiz-footer.php:38
+#: inc/customizer/customizer-options/storebiz-general.php:123
+msgid "Background"
+msgstr "الخلفية"
+
+#: inc/customizer/customizer-options/storebiz-footer.php:18
+msgid "Footer Background"
+msgstr "خلفية التذييل"
+
+#: inc/customizer/customizer-options/storebiz-footer.php:10
+msgid "Footer"
+msgstr "التذييل"
+
+#: inc/customizer/customizer-options/storebiz-blog.php:137
+msgid "No of Posts Display"
+msgstr "عدد المقالات عرض"
+
+#: inc/customizer/customizer-options/storebiz-blog.php:118
+#: inc/customizer/customizer-options/storebiz-general.php:78
+msgid "Content"
+msgstr "المحتوى"
+
+#: inc/customizer/customizer-options/storebiz-blog.php:97
+msgid "Title"
+msgstr "العنوان"
+
+#: inc/customizer/customizer-options/storebiz-blog.php:78
+#: inc/customizer/customizer-options/storebiz-header.php:12
+msgid "Header"
+msgstr "الترويسة"
+
+#: inc/customizer/customizer-options/storebiz-blog.php:58
+#: inc/customizer/customizer-options/storebiz-header.php:72
+#: inc/customizer/customizer-options/storebiz-header.php:111
+#: inc/customizer/customizer-options/storebiz-header.php:151
+#: inc/customizer/customizer-options/storebiz-header.php:201
+msgid "Hide/Show"
+msgstr "إخفاء/اظهار"
+
+#: inc/customizer/customizer-options/storebiz-blog.php:40
+#: inc/customizer/customizer-options/storebiz-general.php:36
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: inc/customizer/customizer-options/storebiz-blog.php:19
+msgid "Blog Section"
+msgstr "قسم المدونة"
+
+#: inc/customizer/customizer-options/storebiz-blog.php:10
+msgid "Frontpage Sections"
+msgstr "أقسام الصفحة الأمامية "
+
+#: inc/customizer/customizer-notify/storebiz-notify.php:111
+msgid "Activating"
+msgstr "يتم التنشيط"
+
+#: inc/class-wp-bootstrap-navwalker.php:365
+msgid "Add a menu"
+msgstr "أضف قائمة"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "التجاوز إلى المحتوى"
+
+#: functions.php:139
+msgid "This Widget area for WooCommerce Widget"
+msgstr "منطقة الودجت هذه لودجت  WooCommerce"
+
+#: functions.php:137
+msgid "WooCommerce Widget Area"
+msgstr "منطقة ودجت WooCommerce"
+
+#: functions.php:129
+msgid "The Footer Widget Area"
+msgstr "منطقة ودجت التذييل "
+
+#: functions.php:127
+msgid "Footer Widget Area"
+msgstr "منطقة ودجت التذييل"
+
+#: functions.php:119
+msgid "The Primary Widget Area"
+msgstr "منطقة الودجات الرئيسية"
+
+#: functions.php:117
+msgid "Sidebar Widget Area"
+msgstr "منطقة ودجات الشريط الجانبي"
+
+#: functions.php:108
+msgid "Header Right Widget"
+msgstr "ترويسة الودجت اليمنى"
+
+#: functions.php:106
+msgid "Header Right Widget Area"
+msgstr "الترويسة لمنطقة الودجت اليمنى"
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: footer.php:31
+msgid "<a href=\"#\">StoreBiz</a>"
+msgstr "<a href=\"#\">StoreBiz</a>"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr "التعليقات الأحدث"
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr "التعليقات الأقدم"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "تصفّح التعليقات"
+
+#: 404.php:25
+msgid "Go to Home"
+msgstr "الرجوع الى الرئيسية"
+
+#: 404.php:22
+msgid "The page you were looking for could not be found."
+msgstr "لا يمكن العثور على الصفحة التي كنت تبحث عنها"
+
+#: 404.php:20
+msgid "Page Not Found"
+msgstr "الصفحة غير موجودة"
+
+#. Author URI of the theme
+msgid "https://burgerthemes.com/"
+msgstr "https://burgerthemes.com/"
+
+#. Theme URI of the theme
+msgid "https://burgerthemes.com/storebiz-free/"
+msgstr "https://burgerthemes.com/storebiz-free/"
+
+#. Author of the theme
+msgid "burgersoftware"
+msgstr "burgersoftware"

@@ -1,0 +1,589 @@
+# Translation of Themes - Harrison in Arabic
+# This file is distributed under the same license as the Themes - Harrison package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-25 05:18:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - Harrison\n"
+
+#. Description of the theme
+msgid "Harrison is a highly versatile WordPress Theme and was specially designed for use with the new WordPress Block Editor. The theme supports the latest Gutenberg features and provides different blog layouts and extensive post settings. The clean and elegant design is perfect to create all kinds of websites. You should really try it!"
+msgstr "Harrison هو قالب ووردبريس متعدد الاستخدامات وتم تصميمه خصيصًا للاستخدام مع مُحرر المكوّنات ووردبريس الجديد. يدعم القالب أحدث مميزات Gutenberg ويوفر تخطيطات مختلفة للمدونة وإعدادات  شاملة للمقالة. التصميم الغير معقد والأنيق مثالي لإنشاء جميع أنواع مواقع الويب. أنصحك بتجربته!"
+
+#. Template Name of the theme
+msgid "No Page Title"
+msgstr "صفحة بلا عنوان "
+
+#. Template Name of the theme
+msgid "Full-width / No Title"
+msgstr "عرض كامل / بلا عنوان"
+
+#: inc/customizer/sections/website-settings.php:34
+msgid "Retina Logo"
+msgstr "شعار رتينا"
+
+#: inc/customizer/sections/website-settings.php:50
+msgid "Scale down logo image for retina displays"
+msgstr "تصغير صورة الشعار لشاشات عرض رتينا"
+
+#. Theme Name of the theme
+#. translators: Theme Name and Link to ThemeZee.
+#: inc/template-tags.php:415
+msgid "Harrison"
+msgstr "Harrison"
+
+#: searchform.php:13 searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr "البحث عن:"
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "بحث &hellip;"
+
+#: searchform.php:21
+msgctxt "submit button"
+msgid "Search"
+msgstr "بحث"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "القائمة"
+
+#: template-parts/header/site-navigation.php:22
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: template-parts/page/content-none.php:16
+msgid "Nothing Found"
+msgstr "لا يوجد شيء"
+
+#: template-parts/page/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "هل أنت على استعداد لنشر مقالتك الأولى؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+#: template-parts/page/content-none.php:29
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عذرا، لا يوجد شيء يتطابق مع كلمات البحث التي استعملتها، المرجو المحاولة من جديد باستعمال كلمات مفتاحية أخرى."
+
+#: template-parts/page/content-none.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أننا لم نعثر على ما تطلب. لعل استعمال البحث قد يساعد."
+
+#: inc/theme-info.php:19 inc/theme-info.php:40
+msgid "Welcome to %1$s %2$s"
+msgstr "مرحبا في %1$s %2$s"
+
+#: inc/customizer/sections/theme-info-settings.php:19 inc/theme-info.php:20
+msgid "Theme Info"
+msgstr "معلومات حول القالب"
+
+#: inc/customizer/controls/links-control.php:25 inc/theme-info.php:46
+msgid "Theme Links"
+msgstr "روابط القالب"
+
+#: inc/customizer/controls/links-control.php:29 inc/theme-info.php:47
+msgid "Theme Page"
+msgstr "صفحة القالب"
+
+#: inc/customizer/controls/links-control.php:35 inc/theme-info.php:48
+msgid "Theme Demo"
+msgstr "عرض توضيحي للقالب"
+
+#: inc/customizer/controls/links-control.php:40 inc/theme-info.php:49
+#: inc/theme-info.php:71
+msgid "https://themezee.com/docs/harrison-documentation/"
+msgstr "https://themezee.com/docs/harrison-documentation/"
+
+#: inc/customizer/controls/links-control.php:41 inc/theme-info.php:49
+#: inc/theme-info.php:65
+msgid "Theme Documentation"
+msgstr "تعليمات القالب"
+
+#: inc/theme-info.php:50
+msgid "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=harrison"
+msgstr "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=harrison"
+
+#: inc/customizer/controls/links-control.php:47 inc/theme-info.php:50
+msgid "Theme Changelog"
+msgstr "سجل تغيير القالب"
+
+#: inc/customizer/controls/links-control.php:52 inc/theme-info.php:51
+#: inc/theme-info.php:155
+msgid "https://wordpress.org/support/theme/harrison/reviews/"
+msgstr "https://wordpress.org/support/theme/harrison/reviews/"
+
+#: inc/customizer/controls/links-control.php:53 inc/theme-info.php:51
+#: inc/theme-info.php:155
+msgid "Rate this theme"
+msgstr "قيم هذا القالب"
+
+#: inc/theme-info.php:58
+msgid "Getting started with %s"
+msgstr "البدء مع  %s"
+
+#: inc/theme-info.php:68
+msgid "Need help to set up and configure this theme? We got you covered! Check out the extensive theme documentation on our website."
+msgstr "هل تحتاج إلى مساعدة لإعداد هذا القالب وتكوينه؟ سنهتم بكل شيء! تحقق من وثائق القالب الشاملة على موقعنا."
+
+#: inc/theme-info.php:72
+msgid "View %s's documentation"
+msgstr "عرض وثائق %s"
+
+#: inc/customizer/customizer.php:37 inc/theme-info.php:78
+msgid "Theme Options"
+msgstr "خيارات القالب"
+
+#: inc/theme-info.php:81
+msgid "%s makes use of the Customizer for all theme settings. Click on \"Customize Theme\" to open the Customizer now."
+msgstr "يستخدم %s  المخصص لجميع إعدادات القالب. انقر على \"تخصيص القالب\" لفتح المخصص الآن."
+
+#: inc/theme-info.php:84
+msgid "Customize Theme"
+msgstr "تخصيص القالب"
+
+#: inc/theme-info.php:104
+msgid "Get more features"
+msgstr "احصل على المزيد من المميزات "
+
+#: inc/customizer/controls/upgrade-control.php:25 inc/theme-info.php:111
+msgid "Pro Version Add-on"
+msgstr "إضافة نسخة Pro"
+
+#: inc/customizer/controls/upgrade-control.php:28 inc/theme-info.php:114
+msgid "Purchase the %s Pro Add-on to get additional features and advanced customization options."
+msgstr "قم بشراء الإضافة %s   Pro للحصول على مميزات إضافية وخيارات تخصيص متقدمة."
+
+#: inc/customizer/controls/upgrade-control.php:32 inc/theme-info.php:117
+msgid "https://themezee.com/addons/harrison-pro/"
+msgstr "https://themezee.com/addons/harrison-pro/"
+
+#: inc/customizer/controls/upgrade-control.php:33 inc/theme-info.php:118
+msgid "Learn more about %s Pro"
+msgstr "معرفة المزيد عن %s Pro"
+
+#: inc/theme-info.php:128
+msgid "Recommended Plugins"
+msgstr "الإضافات الموصى بها"
+
+#: inc/theme-info.php:131
+msgid "Extend the functionality of your WordPress website with our free and easy to use plugins."
+msgstr "يمكنك توسيع وظائف موقع ووردبريس الخاص بك من خلال الإضافات المجانية و سهلة الاستخدام."
+
+#: inc/theme-info.php:135
+msgid "Install Plugins"
+msgstr "الإضافات المنصّبة"
+
+#: inc/theme-info.php:152
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr "تم تقديم %1$s لك بفخر بواسطة %2$s. إذا أعجبك هذا القالب ،%3$s  :)"
+
+#: inc/theme-info.php:155
+msgctxt "If you like this theme, rate it"
+msgid "rate it"
+msgstr "قم بالتقييم"
+
+#: inc/gutenberg.php:34
+msgctxt "block color"
+msgid "Primary"
+msgstr "رئيسي"
+
+#: inc/gutenberg.php:39
+msgctxt "block color"
+msgid "Secondary"
+msgstr "ثانوي"
+
+#: inc/gutenberg.php:49
+msgctxt "block color"
+msgid "Accent"
+msgstr "تمييز"
+
+#: inc/gutenberg.php:59
+msgctxt "block color"
+msgid "White"
+msgstr "أبيض"
+
+#: inc/gutenberg.php:64
+msgctxt "block color"
+msgid "Light Gray"
+msgstr "رمادي فاتح"
+
+#: inc/gutenberg.php:69
+msgctxt "block color"
+msgid "Gray"
+msgstr "رمادي"
+
+#: inc/gutenberg.php:74
+msgctxt "block color"
+msgid "Dark Gray"
+msgstr "رمادي غامق"
+
+#: inc/gutenberg.php:79
+msgctxt "block color"
+msgid "Black"
+msgstr "أسود"
+
+#: inc/gutenberg.php:88
+msgctxt "block font size"
+msgid "Small"
+msgstr "صغير"
+
+#: inc/gutenberg.php:93
+msgctxt "block font size"
+msgid "Medium"
+msgstr "متوسط"
+
+#: inc/gutenberg.php:98
+msgctxt "block font size"
+msgid "Large"
+msgstr "كبير"
+
+#: inc/gutenberg.php:108
+msgctxt "block font size"
+msgid "Huge"
+msgstr "ضخم"
+
+#: inc/back-compat.php:42 inc/back-compat.php:52 inc/back-compat.php:65
+msgid "%1$s requires at least WordPress version %2$s. You are running version %3$s. Please upgrade and try again."
+msgstr "يتطلب  %1$s  نسخة ووردبريس %2$s على الأقل. تقوم بتشغيل النسخة %3$s.يرجى الترقية والمحاولة مرة أخرى."
+
+#: inc/customizer/customizer.php:42
+msgid "Background"
+msgstr "الخلفية"
+
+#: inc/customizer/controls/links-control.php:46
+msgid "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=harrison/"
+msgstr "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=harrison/"
+
+#: inc/customizer/controls/plugin-control.php:33
+msgid "Install Plugin"
+msgstr "تنصيب إضافة"
+
+#: inc/customizer/sections/website-settings.php:66
+msgid "Display Site Title"
+msgstr "عرض عنوان الموقع"
+
+#: inc/customizer/sections/website-settings.php:82
+msgid "Display Tagline"
+msgstr "عرض الشعار"
+
+#: inc/customizer/sections/blog-settings.php:19
+msgid "Blog Settings"
+msgstr "إعدادات المدونة"
+
+#: inc/customizer/sections/blog-settings.php:36
+msgid "Blog Layout"
+msgstr "تخطيط المدونة"
+
+#: inc/customizer/sections/blog-settings.php:42
+msgid "Horizontal List"
+msgstr "القائمة الأفقية"
+
+#: inc/customizer/sections/blog-settings.php:43
+msgid "Horizontal List (alternative)"
+msgstr "القائمة الأفقية (بديل)"
+
+#: inc/customizer/sections/blog-settings.php:44
+msgid "Vertical List"
+msgstr "القائمة العمودية"
+
+#: inc/customizer/sections/blog-settings.php:45
+msgid "Vertical List (alternative)"
+msgstr "القائمة العمودية (بديل)"
+
+#: inc/customizer/sections/blog-settings.php:46
+msgid "Two Column Grid"
+msgstr "شبكة ذات عمودين"
+
+#: inc/customizer/sections/blog-settings.php:47
+msgid "Three Column Grid"
+msgstr "شبكة بثلاثة أعمدة"
+
+#: inc/customizer/sections/blog-settings.php:60
+msgid "Blog Content"
+msgstr "محتوى المدونة"
+
+#: inc/customizer/sections/blog-settings.php:66
+msgid "Full post"
+msgstr "مقالة كاملة"
+
+#: inc/customizer/sections/blog-settings.php:80
+msgid "Excerpt Length"
+msgstr "Excerpt Length"
+
+#: inc/customizer/sections/blog-settings.php:96
+msgid "Excerpt More Text"
+msgstr "مقتطف نص أكثر"
+
+#: inc/customizer/sections/blog-settings.php:126
+msgid "Read More Link"
+msgstr "رابط اقرأ المزيد "
+
+#: inc/customizer/sections/blog-settings.php:142
+msgid "Number of Posts"
+msgstr "عدد المقالات"
+
+#: inc/customizer/sections/layout-settings.php:36
+msgid "Theme Layout"
+msgstr "تخطيط القالب"
+
+#: inc/customizer/sections/layout-settings.php:42
+msgid "Centered Layout"
+msgstr "تخطيط في الوسط"
+
+#: inc/customizer/sections/layout-settings.php:43
+msgid "Wide Layout"
+msgstr "تخطيط عريض "
+
+#: inc/customizer/sections/layout-settings.php:56
+msgid "Header Layout"
+msgstr "تخطيط الترويسة "
+
+#: inc/customizer/sections/layout-settings.php:62
+msgid "Horizontal"
+msgstr "أفقي"
+
+#: inc/customizer/sections/layout-settings.php:63
+msgid "Vertical"
+msgstr "عمودي"
+
+#: inc/customizer/sections/post-settings.php:19
+msgid "Post Settings"
+msgstr "اعدادات المقالة"
+
+#: inc/customizer/sections/post-settings.php:30
+msgid "Post Details"
+msgstr "تفاصيل المقالة"
+
+#: inc/customizer/sections/post-settings.php:46
+msgid "Display date"
+msgstr "عرض التاريخ"
+
+#: inc/customizer/sections/post-settings.php:62
+msgid "Display author"
+msgstr "عرض الكاتب"
+
+#: inc/customizer/sections/post-settings.php:78
+msgid "Display comments"
+msgstr "عرض التعليقات"
+
+#: inc/customizer/sections/post-settings.php:94
+msgid "Display categories"
+msgstr "عرض التصنيفات"
+
+#: inc/customizer/sections/post-settings.php:104
+msgid "Single Post"
+msgstr "مقالة منفردة"
+
+#: inc/customizer/sections/post-settings.php:120
+msgid "Display tags"
+msgstr "عرض الوسوم"
+
+#: inc/customizer/sections/post-settings.php:136
+msgid "Display previous/next post navigation"
+msgstr "عرض تصفّح المقالات السابق / التالي"
+
+#: inc/customizer/sections/post-settings.php:146
+msgid "Featured Images"
+msgstr "الصور البارزة"
+
+#: inc/customizer/sections/post-settings.php:162
+msgid "Display images on blog and archives"
+msgstr "عرض الصور على المدونة والأرشيف"
+
+#: inc/customizer/sections/post-settings.php:184
+msgid "Featured Images on Single Posts"
+msgstr "صور بارزة في مقالات منفردة"
+
+#: inc/customizer/sections/post-settings.php:190
+msgid "Display image in the header"
+msgstr "عرض الصورة في الترويسة "
+
+#: inc/customizer/sections/post-settings.php:191
+msgid "Display image above post title"
+msgstr "عرض الصورة فوق عنوان المقالة"
+
+#: inc/customizer/sections/post-settings.php:192
+msgid "Display image below post title"
+msgstr "عرض الصورة أسفل عنوان المقالة"
+
+#: inc/customizer/sections/post-settings.php:193
+msgid "Hide featured image"
+msgstr "إخفاء الصورة البارزة "
+
+#: inc/customizer/sections/theme-info-settings.php:48
+msgid "Magazine Blocks"
+msgstr "مكوّنات المجلة"
+
+#: inc/customizer/sections/theme-info-settings.php:49
+msgid "Install our free Magazine Blocks to create a magazine-styled homepage in the Editor with just a few clicks."
+msgstr "قم بتنصيب مكوّنات المجلة المجانية الخاصة بنا لإنشاء صفحة رئيسية على غرار مجلة في المحرر ببضع نقرات فقط."
+
+#: inc/customizer/sections/footer-settings.php:36
+msgid "Footer Text"
+msgstr "نص التذييل"
+
+#: inc/customizer/sections/footer-settings.php:59
+msgid "Display credit link on footer line"
+msgstr "عرض رابط بفضل على خط التذييل"
+
+#: inc/customizer/default-options.php:61
+msgid "Continue reading"
+msgstr "تابع القراءة"
+
+#. translators: Search Results title.
+#: inc/template-tags.php:135
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#. translators: post author link.
+#: inc/template-tags.php:237
+msgid "View all posts by %s"
+msgstr "عرض كل المقالات بواسطة %s"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:243
+msgctxt "post author"
+msgid "by %s"
+msgstr "بواسطة %s"
+
+#: inc/template-tags.php:286
+msgid "No comments"
+msgstr "لا توجد تعليقات"
+
+#: inc/template-tags.php:287
+msgid "1 comment"
+msgstr "تعليق واحد"
+
+#: inc/template-tags.php:288
+msgid "% comments"
+msgstr "% تعليقات"
+
+#: inc/template-tags.php:306
+msgid "Tags"
+msgstr "وسوم"
+
+#: inc/template-tags.php:349
+msgctxt "post navigation"
+msgid "Previous Post"
+msgstr "المقالة السابقة"
+
+#: inc/template-tags.php:350
+msgctxt "post navigation"
+msgid "Next Post"
+msgstr "المقالة التالية"
+
+#: inc/template-tags.php:369
+msgctxt "pagination"
+msgid "Previous Posts"
+msgstr "المقالات السابقة"
+
+#: inc/template-tags.php:370
+msgctxt "pagination"
+msgid "Next Posts"
+msgstr "المقالات التالية"
+
+#. translators: Theme Name and Link to ThemeZee.
+#: inc/template-tags.php:414
+msgid "WordPress Theme: %1$s by %2$s."
+msgstr "قالب ووردبريس: %1$s بواسطة %2$s."
+
+#. Template Name of the theme
+msgid "Full-width Layout"
+msgstr "التخطيط بالعرض الكامل"
+
+#: functions.php:120 inc/addons.php:181 inc/addons.php:182
+msgid "Expand child menu"
+msgstr "توسيع القائمة الإبن"
+
+#: functions.php:121 inc/addons.php:181 inc/addons.php:182
+msgid "Collapse child menu"
+msgstr "طي القائمة الإبن"
+
+#: functions.php:182
+msgid "Footer Copyright"
+msgstr "تذييل حقوق النشر"
+
+#: functions.php:184
+msgctxt "widget area description"
+msgid "Appears in the bottom footer line."
+msgstr "يظهر في خط التذييل السفلي."
+
+#: functions.php:199
+msgid "Harrison Single Post"
+msgstr "المقالة المنفردة ل Harrison"
+
+#: functions.php:200
+msgid "Harrison List Post"
+msgstr "قائمة مقالة Harrison"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "التجاوز إلى المحتوى"
+
+#: comments.php:35
+msgid "One comment"
+msgstr "تعليق واحد"
+
+#. translators: Comment Count
+#: comments.php:38
+msgid "%s comments"
+msgstr "%s تعليق"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: 404.php:19
+msgid "404: Page not found"
+msgstr "404: لم يتم العثور على الصفحة"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search or one of the links below?"
+msgstr "يبدو أنه لم يتم العثور على أي شيء في هذا المكان. ربما حاول البحث أو استعمل أحد الروابط أدناه؟"
+
+#: inc/customizer/sections/blog-settings.php:67
+msgid "Post excerpt"
+msgstr "مقتطف المقالة"
+
+#: inc/customizer/sections/layout-settings.php:19
+msgid "Layout Settings"
+msgstr "إعدادات التنسيق"
+
+#: inc/customizer/sections/footer-settings.php:19
+msgid "Footer Settings"
+msgstr "إعدادات تذييل الموقع"
+
+#: functions.php:49
+msgid "Main Navigation"
+msgstr "التنقل الرئيسي"
+
+#: inc/gutenberg.php:103
+msgctxt "block font size"
+msgid "Extra Large"
+msgstr "كبير جدًا"
+
+#: inc/gutenberg.php:54
+msgctxt "block color"
+msgid "Highlight"
+msgstr "تمييز"
+
+#. Theme URI of the theme
+#: inc/customizer/controls/links-control.php:28 inc/theme-info.php:47
+msgid "https://themezee.com/themes/harrison/"
+msgstr "https://themezee.com/themes/harrison/"
+
+#. Author of the theme
+msgid "ThemeZee"
+msgstr "ThemeZee"
+
+#. Author URI of the theme
+#: inc/theme-info.php:154
+msgid "https://themezee.com/"
+msgstr "https://themezee.com/"
